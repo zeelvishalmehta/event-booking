@@ -9,8 +9,11 @@ Task1:
  - Show the total price of all filtered entries.
  - ebooking-db-structure.sql (Database structure reference)
  - ebooking.sql (Show all data)
+ 
+Live URL: https://jushelp.me/event-booking/
 
 Task2:
 Created a tested class for the version comparison.(reference: version_compare.php)
+https://jushelp.me/event-booking/version_compare.php
 
 
