@@ -4,7 +4,7 @@
 
 $servername = "localhost";
 $username = "event-booking";
-$password = "";
+$password = "hA0~ua58";
 $dbname = "event-booking";
 
 // Create connection
