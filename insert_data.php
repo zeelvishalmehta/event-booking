@@ -19,7 +19,6 @@ foreach($data as $data)
 	$date = $explode_date[0];
 	$time = $explode_date[1];
 	$sql = "insert into ebooking (employee_name,employee_mail,event_id,event_name,participation_fee,event_date,event_time) values ('".$employee_name."','".$employee_mail."','".$event_id."','".$event_name."','".$participation_fee."','".$date."','".$time."')";	
-	//mysqli_query($link,$sql);
 	$conn->query($sql);
 }
 
